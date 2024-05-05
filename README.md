@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Computer Vision, AI, JavaScript, Automation**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vivekverma18](https://github.com/vivekverma18)
+- 👨‍💻 All of my projects are available at [https://github.com/vivekverma18](https://github.com/vivekverma18?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@vik180292](https://medium.com/@vik180292)
 
