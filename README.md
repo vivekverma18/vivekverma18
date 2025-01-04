@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **ServiceNow ITOM, AI, Iot**
 
-- 📫 How to reach me **vivekverma@gmail.com**
+- 📫 How to reach me **vivekvermaoffl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
